@@ -4,7 +4,7 @@
 
 A Windows-MSYS2-MinGW compatible version of [https://github.com/openai/ale_python_interface](https://github.com/openai/ale_python_interface).
 
-This has been tested on Windows 7 64-bit.  It will likely work on Windows XP or later.
+This has been tested on Windows 7 64-bit.  It will likely work on Windows XP or later. This Version works on Windows 10 1709 for sure. However I haven't tested it on Windows 10 1803. 
 
 ## Installation
 
